@@ -1,0 +1,11 @@
+{
+  "name": "KidUni - 三语全能学习伴侣",
+  "description": "多功能儿童三语学习平台，集 AI 魔法故事、神奇三语翻译、教师与家长工具箱、全能单词卡及趣味学园于一体，助力 2-10 岁孩子全方位语言成长。",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
